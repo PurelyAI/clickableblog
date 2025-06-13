@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://blog.clickable.boo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.clickorboo.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://blog.clickable.boo/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/7-ai-thumbnail-secret/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/do-thumbnails-increase-youtube-views/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/how-no-faces-thumbnails-get-surprising-ctr/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/is-your-youtube-ctr-killing-your-views/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/the-secret-no-face-thumbnail-strategy-top-creators-use/</loc>
-</url>
-<url>
-<loc>https://blog.clickable.boo/clickable-blogs/what-makes-a-good-thumbnail-with-5-hacks/</loc>
+<loc>https://blog.clickorboo.com/</loc>
 </url>
 </urlset>
